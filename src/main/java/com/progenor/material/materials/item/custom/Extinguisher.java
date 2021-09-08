@@ -13,6 +13,7 @@ import java.util.Objects;
 
 public class Extinguisher extends Item {
     public Extinguisher(Properties properties){
+
         
         super(properties);
     }
