@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "materials:tungsten_ore"
+  },
+  "result": "materials:tungsten_ingot",
+  "experience": 6.0,
+  "cookingtime": 350
+}

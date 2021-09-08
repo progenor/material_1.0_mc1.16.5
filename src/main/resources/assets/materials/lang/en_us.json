@@ -1,0 +1,8 @@
+{
+  "item.materials.tungsten_ingot": "Tungsten Ingot",
+  "block.materials.tungsten_ore": "Tungsten Ore",
+  "block.materials.tungsten_block": "Tungsten Block",
+  "item.materials.extinguisher": "Extinguisher",
+
+  "itemGroup.materialModTab": "Materials Plus"
+}
