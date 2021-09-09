@@ -3,6 +3,12 @@
   "block.materials.tungsten_ore": "Tungsten Ore",
   "block.materials.tungsten_block": "Tungsten Block",
   "item.materials.extinguisher": "Extinguisher",
+  "item.materials.tungsten_sword": "Tungsten Sword",
+  "item.materials.tungsten_axe": "Tungsten Axe",
+  "item.materials.tungsten_shovel": "Tungsten Shovel",
+  "item.materials.tungsten_hoe": "Tungsten Hore",
+  "item.materials.tungsten_pickaxe": "Tungsten Pickaxe",
+
 
   "itemGroup.materialModTab": "Materials Plus",
   "tooltip.materials.extinguisher": "Hold \u00A7eSHIFT\u00A7r for more information!",

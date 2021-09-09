@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "materials:tungsten_ingot"
+    }
+  },
+  "result": {
+    "item": "materials:tungsten_axe"
+  }
+}
