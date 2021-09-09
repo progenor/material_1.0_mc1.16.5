@@ -19,6 +19,8 @@ public class ModItems {
     public static final RegistryObject<Item> EXTINGUISHER = ITEMS.register("extinguisher", () ->
             new Extinguisher(new Item.Properties().group(ModItemGroup.MATERIAL_GROUP).maxDamage(2)));
 
+
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }

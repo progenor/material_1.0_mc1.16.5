@@ -14,7 +14,7 @@ import java.util.Objects;
 public class Extinguisher extends Item {
     public Extinguisher(Properties properties){
 
-        
+
         super(properties);
     }
 
@@ -22,7 +22,6 @@ public class Extinguisher extends Item {
     @Override
     public ActionResultType onItemUseFirst(ItemStack stack, ItemUseContext context) {
         World world = context.getWorld();
-
 
 
         if(!world.isRemote){
@@ -56,6 +55,7 @@ public class Extinguisher extends Item {
         playerEntity.addPotionEffect(new EffectInstance(Effects.FIRE_RESISTANCE, 10));
         playerEntity.extinguish();
     }
+
 
 
 }
