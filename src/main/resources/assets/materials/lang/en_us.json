@@ -4,5 +4,7 @@
   "block.materials.tungsten_block": "Tungsten Block",
   "item.materials.extinguisher": "Extinguisher",
 
-  "itemGroup.materialModTab": "Materials Plus"
+  "itemGroup.materialModTab": "Materials Plus",
+  "tooltip.materials.extinguisher": "Hold \u00A7eSHIFT\u00A7r for more information!",
+  "tooltip.materials.extinguisher_shift": "This item extinguishes you if you are on §4fire§r. It might also work in the nether...but remember nothing good comes without a §kcost!"
 }
