@@ -8,6 +8,10 @@
   "item.materials.tungsten_shovel": "Tungsten Shovel",
   "item.materials.tungsten_hoe": "Tungsten Hore",
   "item.materials.tungsten_pickaxe": "Tungsten Pickaxe",
+  "item.materials.tungsten_boots": "Tungsten Boots",
+  "item.materials.tungsten_leggings": "Tungsten Leggings",
+  "item.materials.tungsten_chestplate": "Tungsten Chestplate",
+  "item.materials.tungsten_helmet": "Tungsten Helmet",
 
 
   "itemGroup.materialModTab": "Materials Plus",
