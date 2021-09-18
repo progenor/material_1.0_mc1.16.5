@@ -4,6 +4,7 @@ package com.progenor.material.materials.events;
 import com.progenor.material.materials.Materials;
 import com.progenor.material.materials.commands.ReturnHomeCommand;
 import com.progenor.material.materials.commands.SetHomeCommand;
+import com.progenor.material.materials.commands.getLocationCommand;
 import net.minecraftforge.event.RegisterCommandsEvent;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -17,6 +18,7 @@ public class ModEvents {
     public static void onCommandRegister(RegisterCommandsEvent event){
         new SetHomeCommand(event.getDispatcher());
         new ReturnHomeCommand(event.getDispatcher());
+        new getLocationCommand(event.getDispatcher());
 
         ConfigCommand.register(event.getDispatcher());
     }
